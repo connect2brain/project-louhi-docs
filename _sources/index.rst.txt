@@ -10,7 +10,8 @@ Welcome to Project Louhi's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   start-here
+   page1
+   page2
 
 
 
